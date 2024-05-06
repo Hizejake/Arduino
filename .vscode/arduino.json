@@ -1,6 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "port": "COM3",
+    "port": "COM4",
     "sketch": "Learning Arduino\\first_code\\first_code.ino"
 }
